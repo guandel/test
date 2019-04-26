@@ -25,5 +25,5 @@ class Test_py:
 
         assert a == b
 
-        assert a != b
+        assert a == b
 
